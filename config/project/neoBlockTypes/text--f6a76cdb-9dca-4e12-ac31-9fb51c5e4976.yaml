@@ -2,7 +2,7 @@ childBlocks: null
 conditions: null
 description: ''
 enabled: true
-field: 26cc7140-91ae-43f8-abb3-c70f60031f8b # Neo
+field: 26cc7140-91ae-43f8-abb3-c70f60031f8b # Neo - Save blocks to the site where they were created in
 fieldLayouts:
   34b90d46-5c3b-404c-8e5e-2c3c9f81157f:
     tabs:

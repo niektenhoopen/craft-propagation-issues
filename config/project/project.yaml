@@ -1,4 +1,4 @@
-dateModified: 1692199318
+dateModified: 1692199518
 email:
   fromEmail: test@example.org
   fromName: 'Test Propagation'
@@ -6,9 +6,12 @@ email:
 meta:
   __names__:
     01d4a96a-3bb7-4503-9e17-c009bd8c0c1d: 'Custom Propagating Pages' # Custom Propagating Pages
+    2be782d7-d238-4097-aa85-fba290c6e82b: 'Super Table' # Super Table
     2ddc08b2-3d60-49e3-a30d-0163f58cf994: Default # Default
     6cbef2c4-fa27-45aa-9ecb-8176e9840c19: 'Non Translatable Text' # Non Translatable Text
-    26cc7140-91ae-43f8-abb3-c70f60031f8b: Neo # Neo
+    8e565415-bfff-4359-8734-2cc58b1220f8: Text # Text
+    8ffd3c5b-2d9a-4cb8-ad3f-b5b14fd0ad94: 'Neo - Save blocks to all sites the owner element is saved in' # Neo - Save blocks to all sites the owner element is saved in
+    26cc7140-91ae-43f8-abb3-c70f60031f8b: 'Neo - Save blocks to the site where they were created in' # Neo - Save blocks to the site where they were created in
     53b4eb18-3aa6-45be-a772-5cb5fb567e50: Common # Common
     287e3fdb-5d34-4ec7-803e-4a8e02e050df: 'Spanish Site' # Spanish Site
     55658cdd-ca31-406a-bbd3-1273692ceff0: 'Super Table' # Super Table

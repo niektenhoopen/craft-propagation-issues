@@ -32,13 +32,25 @@ fieldLayouts:
             width: 100
           -
             elementCondition: null
-            fieldUid: 26cc7140-91ae-43f8-abb3-c70f60031f8b # Neo
+            fieldUid: 26cc7140-91ae-43f8-abb3-c70f60031f8b # Neo - Save blocks to the site where they were created in
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             uid: fe503ef1-0e62-403d-b2e1-7c2762897dfe
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 8ffd3c5b-2d9a-4cb8-ad3f-b5b14fd0ad94 # Neo - Save blocks to all sites the owner element is saved in
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b08d8e77-e73c-460a-a485-f3f4b0962c94
             userCondition: null
             warning: null
             width: 100
