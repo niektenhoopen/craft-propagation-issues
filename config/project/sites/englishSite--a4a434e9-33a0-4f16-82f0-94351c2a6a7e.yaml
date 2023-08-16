@@ -1,8 +1,9 @@
 baseUrl: $PRIMARY_SITE_URL
-handle: default
+enabled: true
+handle: englishSite
 hasUrls: true
 language: en-US
-name: 'Test Propagation'
+name: 'English Site'
 primary: true
 siteGroup: b7369c19-9f40-4d20-849a-bcfa0ce9dedd # Test Propagation
 sortOrder: 1

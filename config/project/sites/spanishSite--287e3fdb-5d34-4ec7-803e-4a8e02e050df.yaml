@@ -1,0 +1,9 @@
+baseUrl: $SECONDARY_SITE_URL
+enabled: '1'
+handle: spanishSite
+hasUrls: true
+language: es
+name: 'Spanish Site'
+primary: false
+siteGroup: b7369c19-9f40-4d20-849a-bcfa0ce9dedd # Test Propagation
+sortOrder: 2

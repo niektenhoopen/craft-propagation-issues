@@ -1,4 +1,4 @@
-dateModified: 1692198938
+dateModified: 1692199054
 email:
   fromEmail: test@example.org
   fromName: 'Test Propagation'
@@ -6,7 +6,8 @@ email:
 meta:
   __names__:
     53b4eb18-3aa6-45be-a772-5cb5fb567e50: Common # Common
-    a4a434e9-33a0-4f16-82f0-94351c2a6a7e: 'Test Propagation' # Test Propagation
+    287e3fdb-5d34-4ec7-803e-4a8e02e050df: 'Spanish Site' # Spanish Site
+    a4a434e9-33a0-4f16-82f0-94351c2a6a7e: 'English Site' # English Site
     b7369c19-9f40-4d20-849a-bcfa0ce9dedd: 'Test Propagation' # Test Propagation
 plugins:
   neo:
