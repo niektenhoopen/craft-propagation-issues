@@ -1,4 +1,4 @@
-dateModified: 1692198846
+dateModified: 1692198938
 email:
   fromEmail: test@example.org
   fromName: 'Test Propagation'
@@ -8,6 +8,16 @@ meta:
     53b4eb18-3aa6-45be-a772-5cb5fb567e50: Common # Common
     a4a434e9-33a0-4f16-82f0-94351c2a6a7e: 'Test Propagation' # Test Propagation
     b7369c19-9f40-4d20-849a-bcfa0ce9dedd: 'Test Propagation' # Test Propagation
+plugins:
+  neo:
+    edition: standard
+    enabled: true
+    licenseKey: VDTP7391BMA1W4NOO3867YGH
+    schemaVersion: 3.6.2
+  super-table:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0
 system:
   edition: solo
   live: true
