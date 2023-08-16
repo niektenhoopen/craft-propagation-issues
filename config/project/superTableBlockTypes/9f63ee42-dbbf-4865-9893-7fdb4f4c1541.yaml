@@ -1,29 +1,29 @@
-changedFieldIndicator: 145144150
-field: 55658cdd-ca31-406a-bbd3-1273692ceff0 # Super Table - Save blocks to all sites the owner element is saved in
+changedFieldIndicator: 1016974375
+field: 94576b58-ba85-4404-974b-5722622f7c80 # Super Table - Save blocks to the site where they were created in
 fieldLayouts:
-  5a80d396-927a-4adf-a9a3-83e8996d31e3:
+  c7951ec2-46ff-4998-932b-6d1a6df1c809:
     tabs:
       -
         elementCondition: null
         elements:
           -
             elementCondition: null
-            fieldUid: c745f85f-2215-45dd-9088-4c23411c29b7 # Text
+            fieldUid: c956b8ba-e391-4fcd-9577-766cc240d399 # Text
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: d2938d61-be4b-4a5b-b400-a7906cd3702a
+            uid: 621b8119-36dd-415f-9cb3-e0ac38b143d4
             userCondition: null
             warning: null
             width: 100
         name: Content
-        uid: b8bf6614-d50d-4251-bed7-73f6db17db69
+        uid: 83409af0-565a-4493-a0f7-f149889ca364
         userCondition: null
 fields:
-  c745f85f-2215-45dd-9088-4c23411c29b7: # Text
-    columnSuffix: agysluvx
+  c956b8ba-e391-4fcd-9577-766cc240d399: # Text
+    columnSuffix: lqsjsors
     contentColumnType: text
     fieldGroup: null
     handle: text

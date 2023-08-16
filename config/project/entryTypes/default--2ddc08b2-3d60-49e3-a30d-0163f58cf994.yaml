@@ -44,13 +44,13 @@ fieldLayouts:
             width: 100
           -
             elementCondition: null
-            fieldUid: 8ffd3c5b-2d9a-4cb8-ad3f-b5b14fd0ad94 # Neo - Save blocks to all sites the owner element is saved in
+            fieldUid: bf1fa3b4-4bc6-42e5-8f96-d238e9a1b7b3 # Neo - Save blocks to the site where they were created in 2
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: b08d8e77-e73c-460a-a485-f3f4b0962c94
+            uid: bcae0e12-3691-4204-b587-c9a36ff8b257
             userCondition: null
             warning: null
             width: 100

@@ -4,14 +4,14 @@ description: ''
 enabled: true
 field: 26cc7140-91ae-43f8-abb3-c70f60031f8b # Neo - Save blocks to the site where they were created in
 fieldLayouts:
-  1c417933-7a70-4180-bee6-dd829a8e9a15:
+  3b2bca1a-a92a-424c-8883-1673b7f72736:
     tabs:
       -
         elementCondition: null
         elements:
           -
             elementCondition: null
-            fieldUid: 55658cdd-ca31-406a-bbd3-1273692ceff0 # Super Table
+            fieldUid: 55658cdd-ca31-406a-bbd3-1273692ceff0 # Super Table - Save blocks to all sites the owner element is saved in
             instructions: null
             label: null
             required: false
@@ -35,6 +35,6 @@ maxSiblingBlocks: 0
 minBlocks: 0
 minChildBlocks: 0
 minSiblingBlocks: 0
-name: 'Super Table'
+name: 'Super Table Owner Saved'
 sortOrder: 2
 topLevel: true

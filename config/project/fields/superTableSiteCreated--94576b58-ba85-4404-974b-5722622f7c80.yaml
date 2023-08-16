@@ -1,0 +1,30 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 53b4eb18-3aa6-45be-a772-5cb5fb567e50 # Common
+handle: superTableSiteCreated
+instructions: null
+name: 'Super Table - Save blocks to the site where they were created in'
+searchable: false
+settings:
+  blockTypeFields: 0
+  changedFieldIndicator: 815045368
+  columns:
+    __assoc__:
+      -
+        - c956b8ba-e391-4fcd-9577-766cc240d399 # Text
+        -
+          __assoc__:
+            -
+              - width
+              - ''
+  contentTable: '{{%stc_supertablesitecreated}}'
+  fieldLayout: table
+  maxRows: null
+  minRows: null
+  propagationKeyFormat: null
+  propagationMethod: all
+  selectionLabel: null
+  staticField: null
+translationKeyFormat: null
+translationMethod: none
+type: verbb\supertable\fields\SuperTableField

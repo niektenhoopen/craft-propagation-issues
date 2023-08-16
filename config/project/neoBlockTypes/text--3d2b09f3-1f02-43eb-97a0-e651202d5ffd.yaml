@@ -2,31 +2,31 @@ childBlocks: null
 conditions: null
 description: ''
 enabled: true
-field: 8ffd3c5b-2d9a-4cb8-ad3f-b5b14fd0ad94 # Neo - Save blocks to all sites the owner element is saved in
+field: bf1fa3b4-4bc6-42e5-8f96-d238e9a1b7b3 # Neo - Save blocks to the site where they were created in 2
 fieldLayouts:
-  0460db09-7060-47f6-9775-b03b3f0cb026:
+  0d89d509-546a-4be7-8a41-62b9cd423740:
     tabs:
       -
         elementCondition: null
         elements:
           -
             elementCondition: null
-            fieldUid: 55658cdd-ca31-406a-bbd3-1273692ceff0 # Super Table - Save blocks to all sites the owner element is saved in
+            fieldUid: 6cbef2c4-fa27-45aa-9ecb-8176e9840c19 # Non Translatable Text
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: be5faf76-eef0-45d3-8da2-fa11a5d18d23
+            uid: 71ff8821-4b1b-4728-8d2d-b3753fbebb0f
             userCondition: null
             warning: null
             width: 100
         name: Content
-        uid: 43d0a092-09a9-40c5-a685-9ec005b41b2a
+        uid: 80366057-85e7-4cdc-a268-c5b40621cc05
         userCondition: null
 group: null
 groupChildBlockTypes: true
-handle: superTable
+handle: text
 icon: null
 ignorePermissions: true
 maxBlocks: 0
@@ -35,6 +35,6 @@ maxSiblingBlocks: 0
 minBlocks: 0
 minChildBlocks: 0
 minSiblingBlocks: 0
-name: 'Super Table'
-sortOrder: 2
+name: Text
+sortOrder: 1
 topLevel: true
