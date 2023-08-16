@@ -1,14 +1,22 @@
-dateModified: 1692199054
+dateModified: 1692199318
 email:
   fromEmail: test@example.org
   fromName: 'Test Propagation'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
+    01d4a96a-3bb7-4503-9e17-c009bd8c0c1d: 'Custom Propagating Pages' # Custom Propagating Pages
+    2ddc08b2-3d60-49e3-a30d-0163f58cf994: Default # Default
+    6cbef2c4-fa27-45aa-9ecb-8176e9840c19: 'Non Translatable Text' # Non Translatable Text
+    26cc7140-91ae-43f8-abb3-c70f60031f8b: Neo # Neo
     53b4eb18-3aa6-45be-a772-5cb5fb567e50: Common # Common
     287e3fdb-5d34-4ec7-803e-4a8e02e050df: 'Spanish Site' # Spanish Site
+    55658cdd-ca31-406a-bbd3-1273692ceff0: 'Super Table' # Super Table
     a4a434e9-33a0-4f16-82f0-94351c2a6a7e: 'English Site' # English Site
     b7369c19-9f40-4d20-849a-bcfa0ce9dedd: 'Test Propagation' # Test Propagation
+    c745f85f-2215-45dd-9088-4c23411c29b7: Text # Text
+    f6a76cdb-9dca-4e12-ac31-9fb51c5e4976: Text # Text
+    f9134697-47a3-4643-8d5a-e0d26b292438: 'Super Table' # Super Table
 plugins:
   neo:
     edition: standard

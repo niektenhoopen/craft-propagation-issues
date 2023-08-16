@@ -1,0 +1,20 @@
+defaultPlacement: end
+enableVersioning: true
+handle: customPropagatingPages
+name: 'Custom Propagating Pages'
+propagationMethod: custom
+siteSettings:
+  287e3fdb-5d34-4ec7-803e-4a8e02e050df: # Spanish Site
+    enabledByDefault: true
+    hasUrls: true
+    template: custom-propagating-pages/_entry
+    uriFormat: 'custom-propagating-pages/{slug}'
+  a4a434e9-33a0-4f16-82f0-94351c2a6a7e: # English Site
+    enabledByDefault: true
+    hasUrls: true
+    template: custom-propagating-pages/_entry
+    uriFormat: 'custom-propagating-pages/{slug}'
+structure:
+  maxLevels: null
+  uid: fdf59d70-51b5-4cf1-bc74-d00ecf2e1061
+type: structure
