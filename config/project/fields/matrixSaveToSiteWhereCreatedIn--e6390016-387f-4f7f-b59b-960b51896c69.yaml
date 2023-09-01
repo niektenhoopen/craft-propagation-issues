@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 53b4eb18-3aa6-45be-a772-5cb5fb567e50 # Common
+handle: matrixSaveToSiteWhereCreatedIn
+instructions: null
+name: 'Matrix - Save to site where created in'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_matrixsavetositewherecreatedin}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: none
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

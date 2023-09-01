@@ -1,0 +1,46 @@
+field: e6390016-387f-4f7f-b59b-960b51896c69 # Matrix - Save to site where created in
+fieldLayouts:
+  677252d8-3289-40c3-aaab-607cff38be14:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: c1b63714-b449-43d0-b74f-4ed021d0f707 # Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 658d072f-8403-4c09-b8df-b38c6341e04f
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: e8d66e19-f929-4225-ad78-a488176d5645
+        userCondition: null
+fields:
+  c1b63714-b449-43d0-b74f-4ed021d0f707: # Text
+    columnSuffix: zfswahzh
+    contentColumnType: text
+    fieldGroup: null
+    handle: text
+    instructions: null
+    name: Text
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: superTable
+name: 'Super Table'
+sortOrder: 1
