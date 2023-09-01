@@ -32,7 +32,7 @@ fieldLayouts:
             width: 100
           -
             elementCondition: null
-            fieldUid: 26cc7140-91ae-43f8-abb3-c70f60031f8b # Neo - Save blocks to the site where they were created in
+            fieldUid: 26cc7140-91ae-43f8-abb3-c70f60031f8b
             instructions: null
             label: null
             required: false
@@ -44,7 +44,7 @@ fieldLayouts:
             width: 100
           -
             elementCondition: null
-            fieldUid: bf1fa3b4-4bc6-42e5-8f96-d238e9a1b7b3 # Neo - Save blocks to the site where they were created in 2
+            fieldUid: bf1fa3b4-4bc6-42e5-8f96-d238e9a1b7b3
             instructions: null
             label: null
             required: false

@@ -2,7 +2,7 @@ childBlocks: null
 conditions: null
 description: ''
 enabled: true
-field: 8ffd3c5b-2d9a-4cb8-ad3f-b5b14fd0ad94 # Neo - Save blocks to all sites the owner element is saved in
+field: 8ffd3c5b-2d9a-4cb8-ad3f-b5b14fd0ad94
 fieldLayouts:
   9230702f-8db0-448f-a8fb-88eb2d956184:
     tabs:
@@ -11,7 +11,7 @@ fieldLayouts:
         elements:
           -
             elementCondition: null
-            fieldUid: 6cbef2c4-fa27-45aa-9ecb-8176e9840c19 # Non Translatable Text
+            fieldUid: 6cbef2c4-fa27-45aa-9ecb-8176e9840c19
             instructions: null
             label: null
             required: false

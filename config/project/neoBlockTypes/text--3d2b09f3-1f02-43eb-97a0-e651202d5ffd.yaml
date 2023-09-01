@@ -2,7 +2,7 @@ childBlocks: null
 conditions: null
 description: ''
 enabled: true
-field: bf1fa3b4-4bc6-42e5-8f96-d238e9a1b7b3 # Neo - Save blocks to the site where they were created in 2
+field: bf1fa3b4-4bc6-42e5-8f96-d238e9a1b7b3
 fieldLayouts:
   0d89d509-546a-4be7-8a41-62b9cd423740:
     tabs:
@@ -11,7 +11,7 @@ fieldLayouts:
         elements:
           -
             elementCondition: null
-            fieldUid: 6cbef2c4-fa27-45aa-9ecb-8176e9840c19 # Non Translatable Text
+            fieldUid: 6cbef2c4-fa27-45aa-9ecb-8176e9840c19
             instructions: null
             label: null
             required: false
